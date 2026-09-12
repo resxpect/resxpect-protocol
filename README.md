@@ -34,7 +34,7 @@ The protocol documentation is best read in this order:
    - [Precheck Validation](docs/validators/precheck-validation.md)
    - [Reputation Validation](docs/validators/reputation-validation.md)
    - [Dispute Resolution](docs/validators/dispute-resolution.md)
-8. [Architecture Overview](architecture/overview.md)
+8. [Architecture Overview](docs/architecture/overview.md)
 
 ## Agreement Routes
 
@@ -62,7 +62,7 @@ Evidence connects the agreement to the work that was actually performed.
 
 Depending on the agreement, evidence may include written submissions, images, files, source outputs or other relevant proof.
 
-Evidence can support normal review, reputation validation and dispute resolution.
+Evidence can support normal review, Reputation Validation and Dispute Resolution.
 
 ## Reputation
 
