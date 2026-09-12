@@ -19,7 +19,7 @@ The agreement establishes what is expected before work begins and provides the r
 
 A typical RESXPECT agreement follows:
 
-**Agreement → Funding → Start Work → Evidence → Review → Completion / Dispute**
+**Agreement → Funding → Start Work → Evidence → Review → Completion**
 
 Successful completion can contribute to a participant's reputation.
 
