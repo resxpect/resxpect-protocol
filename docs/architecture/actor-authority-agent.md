@@ -38,15 +38,6 @@ They are simply roles a Principal takes inside an agreement.
 
 A Human or Organisation may act as a Creator in one agreement and a Runner in another.
 
-```text
-Principal
-    │
-    ▼
-Agreement
-├── Creator Role
-└── Runner Role
-```
-
 ---
 
 ## Human Principals
