@@ -23,18 +23,27 @@ The principle is simple:
 The protocol documentation is best read in this order:
 
 1. [Protocol Overview](docs/overview.md)
-2. [Agreement Routes](docs/agreement-routes.md)
-3. [Agreement Lifecycle](docs/agreement-lifecycle.md)
-4. [Funding and Settlement](docs/funding-and-settlement.md)
-5. [Evidence](docs/evidence.md)
-6. [Reputation](docs/reputation/overview.md)
+
+2. Architecture
+   - [Architecture Overview](docs/architecture/overview.md)
+   - [Actor, Authority & Agent Architecture](docs/architecture/actor-authority-agent.md)
+
+3. [Agreement Routes](docs/agreement-routes.md)
+
+4. [Agreement Lifecycle](docs/agreement-lifecycle.md)
+
+5. [Funding and Settlement](docs/funding-and-settlement.md)
+
+6. [Evidence](docs/evidence.md)
+
+7. Reputation
    - [Reputation Points](docs/reputation/reputation-points.md)
    - [Skill Trust](docs/reputation/skill-trust.md)
-7. [Validators](docs/validators/overview.md)
+
+8. Validators
    - [Precheck Validation](docs/validators/precheck-validation.md)
    - [Reputation Validation](docs/validators/reputation-validation.md)
    - [Dispute Resolution](docs/validators/dispute-resolution.md)
-8. [Architecture Overview](docs/architecture/overview.md)
 
 ## Agreement Routes
 
