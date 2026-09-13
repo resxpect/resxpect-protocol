@@ -313,38 +313,6 @@ Organisation Principal
 
 ---
 
-## Long-Term Model
-
-```text
-                         RESXPECT
-
-                         PRINCIPAL
-                     /               \
-                  Human          Organisation
-                    │                 │
-                    │          ┌──────┴──────┐
-                    │          │             │
-              Direct Actor  Human Actor    Agent
-                    │          │             │
-                    └──────────┴──────┬──────┘
-                                     │
-                                 AUTHORITY
-                                     │
-                                     ▼
-                                 AGREEMENT
-                              /               \
-                         Creator Role      Runner Role
-                              \               /
-                               \             /
-                                 OUTCOME
-                                     │
-                          ┌──────────┴──────────┐
-                          │                     │
-                  Principal Reputation    Actor Attribution
-```
-
----
-
 ## Core Principles
 
 > **Actors perform actions. Principals carry accountability. Authority connects the two.**
